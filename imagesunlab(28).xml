@@ -1,0 +1,50 @@
+<annotation>
+	<folder>unlab</folder>
+	<filename>images (28).jpg</filename>
+	<path>C:\Users\Rajesh\Downloads\data set-20230807T140010Z-001\data set\unlab\images (28).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nolabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>31</ymin>
+			<xmax>176</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nolabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>85</ymin>
+			<xmax>84</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nolabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>97</ymin>
+			<xmax>231</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>
