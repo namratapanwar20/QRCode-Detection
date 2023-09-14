@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label</folder>
+	<filename>QnqrDoauuV-7DEhS.jpg</filename>
+	<path>C:\Users\Rajesh\Downloads\data set-20230807T140010Z-001\data set\label\QnqrDoauuV-7DEhS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QRCode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>528</ymin>
+			<xmax>502</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>
